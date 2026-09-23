@@ -1,0 +1,7 @@
+Jan 10 10:01:05 server sshd: Failed password for root from 192.168.1.50 port 4321 ssh2
+Jan 10 10:01:07 server sshd: Failed password for root from 192.168.1.50 port 4321 ssh2
+Jan 10 10:01:09 server sshd: Failed password for admin from 192.168.1.50 port 4321 ssh2
+Jan 10 10:01:11 server sshd: Failed password for root from 192.168.1.50 port 4321 ssh2
+Jan 10 10:01:13 server sshd: Failed password for admin from 192.168.1.50 port 4321 ssh2
+Jan 10 10:01:15 server sshd: Failed password for root from 192.168.1.50 port 4321 ssh2
+Jan 10 10:05:00 server sshd: Failed password for guest from 10.0.0.5 port 5555 ssh2
