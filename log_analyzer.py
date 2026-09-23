@@ -34,5 +34,3 @@ if __name__ == "__main__":
         print("Usage: python log_analyzer.py <path_to_log_file>")
     else:
         analyze_log(sys.argv[1])
-
-  Add log analyzer script
